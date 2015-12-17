@@ -2,7 +2,7 @@
 import mechanize
 import cookielib
 import re
-from logger import logger
+from logger import logger    
 from cp1252 import cp1252
 from urlparse import urlparse, parse_qs
 from bs4 import BeautifulSoup
